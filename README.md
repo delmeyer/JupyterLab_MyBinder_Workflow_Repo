@@ -1,0 +1,2 @@
+# sharing-github
+This repo was created to setup a "WORKING" MyBinder project. Previously I spent many hours trying to build a Binder of linked Jupyter Notebooks and came across many problems doing so (multiple errors in loading/compiling the Binder, with the added frustration of trying to decipher 'cryptic' error flags in the MyBinder compiler). For anyone who happens to come across this repo, I strongly recommend following the 'Data Carpentry' tutorial for building Binders of Jupyter Notebooks: https://reproducible-science-curriculum.github.io/sharing-RR-Jupyter/
