@@ -1,0 +1,37 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/pyviz/noarch",
+  "constrains": [],
+  "depends": [
+    "pyct-core 0.4.6.*",
+    "python >=2.7",
+    "pyyaml",
+    "requests"
+  ],
+  "extracted_package_dir": "/Applications/anaconda3/pkgs/pyct-0.4.6-py_0",
+  "features": "",
+  "files": [],
+  "fn": "pyct-0.4.6-py_0.tar.bz2",
+  "license": "BSD 3-Clause License",
+  "link": {
+    "source": "/Applications/anaconda3/pkgs/pyct-0.4.6-py_0",
+    "type": 1
+  },
+  "md5": "3ff87f352a1d26e233c0f01aab61e538",
+  "name": "pyct",
+  "noarch": "python",
+  "package_tarball_full_path": "/Applications/anaconda3/pkgs/pyct-0.4.6-py_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 2878,
+  "subdir": "noarch",
+  "timestamp": 1541104322485,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/pyviz/noarch/pyct-0.4.6-py_0.tar.bz2",
+  "version": "0.4.6"
+}

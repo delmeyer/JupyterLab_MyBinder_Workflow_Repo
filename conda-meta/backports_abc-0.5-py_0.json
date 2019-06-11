@@ -1,0 +1,97 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "extracted_package_dir": "/Applications/anaconda3/pkgs/backports_abc-0.5-py_0",
+  "features": "",
+  "files": [
+    "lib/python3.6/site-packages/backports_abc-0.5.dist-info/INSTALLER",
+    "lib/python3.6/site-packages/backports_abc-0.5.dist-info/LICENSE",
+    "lib/python3.6/site-packages/backports_abc-0.5.dist-info/METADATA",
+    "lib/python3.6/site-packages/backports_abc-0.5.dist-info/RECORD",
+    "lib/python3.6/site-packages/backports_abc-0.5.dist-info/WHEEL",
+    "lib/python3.6/site-packages/backports_abc-0.5.dist-info/top_level.txt",
+    "lib/python3.6/site-packages/backports_abc.py",
+    "lib/python3.6/site-packages/__pycache__/backports_abc.cpython-36.pyc"
+  ],
+  "fn": "backports_abc-0.5-py_0.tar.bz2",
+  "license": "PSF 2",
+  "link": {
+    "source": "/Applications/anaconda3/pkgs/backports_abc-0.5-py_0",
+    "type": 1
+  },
+  "md5": "0122e9d10c1d0c15f1338423796f857d",
+  "name": "backports_abc",
+  "noarch": "python",
+  "package_tarball_full_path": "/Applications/anaconda3/pkgs/backports_abc-0.5-py_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/backports_abc-0.5.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "sha256_in_prefix": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "size_in_bytes": 4
+      },
+      {
+        "_path": "site-packages/backports_abc-0.5.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "0a4f3b38055f50f047a42521568fa6ddb9a5976c2884f6ae138796d0f71150ca",
+        "sha256_in_prefix": "0a4f3b38055f50f047a42521568fa6ddb9a5976c2884f6ae138796d0f71150ca",
+        "size_in_bytes": 12761
+      },
+      {
+        "_path": "site-packages/backports_abc-0.5.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "bde1a1c86a027df539b54480956d67db1f1f90818c700bf2b2cb1d7dced459f9",
+        "sha256_in_prefix": "bde1a1c86a027df539b54480956d67db1f1f90818c700bf2b2cb1d7dced459f9",
+        "size_in_bytes": 2794
+      },
+      {
+        "_path": "site-packages/backports_abc-0.5.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "db125cb2a5110e0443ab8a5d208a14468cbd1bad293e048f1632bd80990b84a4",
+        "sha256_in_prefix": "db125cb2a5110e0443ab8a5d208a14468cbd1bad293e048f1632bd80990b84a4",
+        "size_in_bytes": 599
+      },
+      {
+        "_path": "site-packages/backports_abc-0.5.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "ae121453793f815da20b2a4e34babecb0f2102f1ae5fe0680e02ffa2f0621d6d",
+        "sha256_in_prefix": "ae121453793f815da20b2a4e34babecb0f2102f1ae5fe0680e02ffa2f0621d6d",
+        "size_in_bytes": 93
+      },
+      {
+        "_path": "site-packages/backports_abc-0.5.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "56b4045ead7b09ef57d637ecb2d5ba8180f7832ab72a38a8fbcc0562295d933a",
+        "sha256_in_prefix": "56b4045ead7b09ef57d637ecb2d5ba8180f7832ab72a38a8fbcc0562295d933a",
+        "size_in_bytes": 14
+      },
+      {
+        "_path": "site-packages/backports_abc.py",
+        "path_type": "hardlink",
+        "sha256": "ffa4406c294b8829f4935b191a9d8537acae2dca988412a7111867a4403a0d39",
+        "sha256_in_prefix": "ffa4406c294b8829f4935b191a9d8537acae2dca988412a7111867a4403a0d39",
+        "size_in_bytes": 5526
+      },
+      {
+        "_path": "lib/python3.6/site-packages/__pycache__/backports_abc.cpython-36.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 13507,
+  "subdir": "noarch",
+  "timestamp": 1558553353907,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/backports_abc-0.5-py_0.tar.bz2",
+  "version": "0.5"
+}

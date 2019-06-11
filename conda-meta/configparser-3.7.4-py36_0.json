@@ -1,0 +1,131 @@
+{
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "backports",
+    "python >=3.6,<3.7.0a0"
+  ],
+  "extracted_package_dir": "/Applications/anaconda3/pkgs/configparser-3.7.4-py36_0",
+  "features": "",
+  "files": [
+    "lib/python3.6/site-packages/__pycache__/configparser.cpython-36.pyc",
+    "lib/python3.6/site-packages/backports/configparser/__init__.py",
+    "lib/python3.6/site-packages/backports/configparser/__pycache__/__init__.cpython-36.pyc",
+    "lib/python3.6/site-packages/backports/configparser/__pycache__/helpers.cpython-36.pyc",
+    "lib/python3.6/site-packages/backports/configparser/helpers.py",
+    "lib/python3.6/site-packages/configparser-3.7.4.dist-info/INSTALLER",
+    "lib/python3.6/site-packages/configparser-3.7.4.dist-info/LICENSE",
+    "lib/python3.6/site-packages/configparser-3.7.4.dist-info/METADATA",
+    "lib/python3.6/site-packages/configparser-3.7.4.dist-info/RECORD",
+    "lib/python3.6/site-packages/configparser-3.7.4.dist-info/WHEEL",
+    "lib/python3.6/site-packages/configparser-3.7.4.dist-info/top_level.txt",
+    "lib/python3.6/site-packages/configparser.py"
+  ],
+  "fn": "configparser-3.7.4-py36_0.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "/Applications/anaconda3/pkgs/configparser-3.7.4-py36_0",
+    "type": 1
+  },
+  "md5": "af1e705af1dd8625436dad62ca48d1f4",
+  "name": "configparser",
+  "package_tarball_full_path": "/Applications/anaconda3/pkgs/configparser-3.7.4-py36_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.6/site-packages/__pycache__/configparser.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "afa46dd75ee98248b9b573c1d8cb7571e668cf30a884ba84288b671b22d4d720",
+        "sha256_in_prefix": "afa46dd75ee98248b9b573c1d8cb7571e668cf30a884ba84288b671b22d4d720",
+        "size_in_bytes": 1277
+      },
+      {
+        "_path": "lib/python3.6/site-packages/backports/configparser/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "4acbd27951c1909895c46d8ecfdd707a6b9ef9e355f2c38f1976602da7f04432",
+        "sha256_in_prefix": "4acbd27951c1909895c46d8ecfdd707a6b9ef9e355f2c38f1976602da7f04432",
+        "size_in_bytes": 55398
+      },
+      {
+        "_path": "lib/python3.6/site-packages/backports/configparser/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "962b039fdb7736d6437d09a2d97aac8f53272b71da74aa5e03edff444e8793aa",
+        "sha256_in_prefix": "962b039fdb7736d6437d09a2d97aac8f53272b71da74aa5e03edff444e8793aa",
+        "size_in_bytes": 45807
+      },
+      {
+        "_path": "lib/python3.6/site-packages/backports/configparser/__pycache__/helpers.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "c7e235068e944b71d0d09d9e3417d88eac2c0f4982bdea3b2781dfe3ac5b2f00",
+        "sha256_in_prefix": "c7e235068e944b71d0d09d9e3417d88eac2c0f4982bdea3b2781dfe3ac5b2f00",
+        "size_in_bytes": 8179
+      },
+      {
+        "_path": "lib/python3.6/site-packages/backports/configparser/helpers.py",
+        "path_type": "hardlink",
+        "sha256": "18cb2f7e933ab37d0156188c55b860d7e603edcda0620f9e79ad3e520657b8d3",
+        "sha256_in_prefix": "18cb2f7e933ab37d0156188c55b860d7e603edcda0620f9e79ad3e520657b8d3",
+        "size_in_bytes": 7648
+      },
+      {
+        "_path": "lib/python3.6/site-packages/configparser-3.7.4.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "sha256_in_prefix": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "size_in_bytes": 4
+      },
+      {
+        "_path": "lib/python3.6/site-packages/configparser-3.7.4.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "a55e2ffe9b44998e621d51d8c094bed09acc4b5236ee73d7df395a33ba3c18fd",
+        "sha256_in_prefix": "a55e2ffe9b44998e621d51d8c094bed09acc4b5236ee73d7df395a33ba3c18fd",
+        "size_in_bytes": 1050
+      },
+      {
+        "_path": "lib/python3.6/site-packages/configparser-3.7.4.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "5f919354322a27693e62fc70551eb1892b56c1d99046f16f924e433cbe3477c5",
+        "sha256_in_prefix": "5f919354322a27693e62fc70551eb1892b56c1d99046f16f924e433cbe3477c5",
+        "size_in_bytes": 11011
+      },
+      {
+        "_path": "lib/python3.6/site-packages/configparser-3.7.4.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "794842ff9dc53405f0bb3f63cac8664c127a46c0b6c85e84d6ef01a505f20082",
+        "sha256_in_prefix": "794842ff9dc53405f0bb3f63cac8664c127a46c0b6c85e84d6ef01a505f20082",
+        "size_in_bytes": 1061
+      },
+      {
+        "_path": "lib/python3.6/site-packages/configparser-3.7.4.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "1d7faff7e9e8524c94a31c99d4f312b92edab94c43011e1505da182ea0f4c70b",
+        "sha256_in_prefix": "1d7faff7e9e8524c94a31c99d4f312b92edab94c43011e1505da182ea0f4c70b",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "lib/python3.6/site-packages/configparser-3.7.4.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "988b3c81a8ddedcbc45a1565bafe2eea871a1f0fd327daceae9919105bfeec77",
+        "sha256_in_prefix": "988b3c81a8ddedcbc45a1565bafe2eea871a1f0fd327daceae9919105bfeec77",
+        "size_in_bytes": 23
+      },
+      {
+        "_path": "lib/python3.6/site-packages/configparser.py",
+        "path_type": "hardlink",
+        "sha256": "360a299deecbdf356844e07ed9929cdd39514fa5e285ce42414bb42996c7b17b",
+        "sha256_in_prefix": "360a299deecbdf356844e07ed9929cdd39514fa5e285ce42414bb42996c7b17b",
+        "size_in_bytes": 1560
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 42904,
+  "subdir": "osx-64",
+  "timestamp": 1556052056395,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/configparser-3.7.4-py36_0.tar.bz2",
+  "version": "3.7.4"
+}

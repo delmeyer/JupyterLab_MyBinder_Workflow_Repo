@@ -1,0 +1,115 @@
+{
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.6,<3.7.0a0"
+  ],
+  "extracted_package_dir": "/Applications/anaconda3/pkgs/pysocks-1.7.0-py36_0",
+  "features": "",
+  "files": [
+    "lib/python3.6/site-packages/PySocks-1.7.0.dist-info/INSTALLER",
+    "lib/python3.6/site-packages/PySocks-1.7.0.dist-info/LICENSE",
+    "lib/python3.6/site-packages/PySocks-1.7.0.dist-info/METADATA",
+    "lib/python3.6/site-packages/PySocks-1.7.0.dist-info/RECORD",
+    "lib/python3.6/site-packages/PySocks-1.7.0.dist-info/WHEEL",
+    "lib/python3.6/site-packages/PySocks-1.7.0.dist-info/top_level.txt",
+    "lib/python3.6/site-packages/__pycache__/socks.cpython-36.pyc",
+    "lib/python3.6/site-packages/__pycache__/sockshandler.cpython-36.pyc",
+    "lib/python3.6/site-packages/socks.py",
+    "lib/python3.6/site-packages/sockshandler.py"
+  ],
+  "fn": "pysocks-1.7.0-py36_0.tar.bz2",
+  "license": "BSD 3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Applications/anaconda3/pkgs/pysocks-1.7.0-py36_0",
+    "type": 1
+  },
+  "md5": "aa43ad03af622f1e8677d9064fb2c235",
+  "name": "pysocks",
+  "package_tarball_full_path": "/Applications/anaconda3/pkgs/pysocks-1.7.0-py36_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.6/site-packages/PySocks-1.7.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "sha256_in_prefix": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "size_in_bytes": 4
+      },
+      {
+        "_path": "lib/python3.6/site-packages/PySocks-1.7.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "7027e214e014eb78b7adcc1ceda5aca713a79fc4f6a0c52c9da5b3e707e6ffe9",
+        "sha256_in_prefix": "7027e214e014eb78b7adcc1ceda5aca713a79fc4f6a0c52c9da5b3e707e6ffe9",
+        "size_in_bytes": 1401
+      },
+      {
+        "_path": "lib/python3.6/site-packages/PySocks-1.7.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "d35e063865c85236f246d5b716fe1154fecbe40206a6102cf0e42d8e93d6c444",
+        "sha256_in_prefix": "d35e063865c85236f246d5b716fe1154fecbe40206a6102cf0e42d8e93d6c444",
+        "size_in_bytes": 13559
+      },
+      {
+        "_path": "lib/python3.6/site-packages/PySocks-1.7.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "9c062f37437183bcc0c25ef01e07b8139cd30d04a494104574a4381ba8a42879",
+        "sha256_in_prefix": "9c062f37437183bcc0c25ef01e07b8139cd30d04a494104574a4381ba8a42879",
+        "size_in_bytes": 699
+      },
+      {
+        "_path": "lib/python3.6/site-packages/PySocks-1.7.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "363bcd03ea6b0b63301dd92ac176ddba0c04e727bff8decfedcee330e85c9be1",
+        "sha256_in_prefix": "363bcd03ea6b0b63301dd92ac176ddba0c04e727bff8decfedcee330e85c9be1",
+        "size_in_bytes": 93
+      },
+      {
+        "_path": "lib/python3.6/site-packages/PySocks-1.7.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "4ca48e21f0850682bd118f050586d8a82dcf59ddfef86d79a61f67f3e4073c39",
+        "sha256_in_prefix": "4ca48e21f0850682bd118f050586d8a82dcf59ddfef86d79a61f67f3e4073c39",
+        "size_in_bytes": 19
+      },
+      {
+        "_path": "lib/python3.6/site-packages/__pycache__/socks.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "9e14c8de1567cee11a594e561c30de0fbe55aaf619e28acd0aa00bec61af4e3d",
+        "sha256_in_prefix": "9e14c8de1567cee11a594e561c30de0fbe55aaf619e28acd0aa00bec61af4e3d",
+        "size_in_bytes": 21193
+      },
+      {
+        "_path": "lib/python3.6/site-packages/__pycache__/sockshandler.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "709d2c936366fa561171deef957a591a311695bdca64bf8f7cfa3a1fbf5962bf",
+        "sha256_in_prefix": "709d2c936366fa561171deef957a591a311695bdca64bf8f7cfa3a1fbf5962bf",
+        "size_in_bytes": 3687
+      },
+      {
+        "_path": "lib/python3.6/site-packages/socks.py",
+        "path_type": "hardlink",
+        "sha256": "5f577ad44832641b653e585c9d45e49f9bb650c59f074a8ba8347bfa96053f69",
+        "sha256_in_prefix": "5f577ad44832641b653e585c9d45e49f9bb650c59f074a8ba8347bfa96053f69",
+        "size_in_bytes": 31095
+      },
+      {
+        "_path": "lib/python3.6/site-packages/sockshandler.py",
+        "path_type": "hardlink",
+        "sha256": "10dc1450edefb7ce3fd7244702ad40d78ed32ff4c0b85bb1dadff542f355d95a",
+        "sha256_in_prefix": "10dc1450edefb7ce3fd7244702ad40d78ed32ff4c0b85bb1dadff542f355d95a",
+        "size_in_bytes": 2913
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 29987,
+  "subdir": "osx-64",
+  "timestamp": 1557856491048,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/pysocks-1.7.0-py36_0.tar.bz2",
+  "version": "1.7.0"
+}

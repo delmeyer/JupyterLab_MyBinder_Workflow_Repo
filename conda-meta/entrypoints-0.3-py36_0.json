@@ -1,0 +1,59 @@
+{
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.6,<3.7.0a0"
+  ],
+  "extracted_package_dir": "/Applications/anaconda3/pkgs/entrypoints-0.3-py36_0",
+  "features": "",
+  "files": [
+    "lib/python3.6/site-packages/__pycache__/entrypoints.cpython-36.pyc",
+    "lib/python3.6/site-packages/entrypoints-0.3-py3.6.egg-info",
+    "lib/python3.6/site-packages/entrypoints.py"
+  ],
+  "fn": "entrypoints-0.3-py36_0.tar.bz2",
+  "license": "MIT License",
+  "license_family": "MIT",
+  "link": {
+    "source": "/Applications/anaconda3/pkgs/entrypoints-0.3-py36_0",
+    "type": 1
+  },
+  "md5": "a4df708e6839797f17e5cb44b12bac6b",
+  "name": "entrypoints",
+  "package_tarball_full_path": "/Applications/anaconda3/pkgs/entrypoints-0.3-py36_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.6/site-packages/__pycache__/entrypoints.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "44f319717c4e6cf94b7b4fd37a64479449e88f3eae67516e69e6170773490865",
+        "sha256_in_prefix": "44f319717c4e6cf94b7b4fd37a64479449e88f3eae67516e69e6170773490865",
+        "size_in_bytes": 7098
+      },
+      {
+        "_path": "lib/python3.6/site-packages/entrypoints-0.3-py3.6.egg-info",
+        "path_type": "hardlink",
+        "sha256": "657ce900ad84beaec81901c22039f5bfca54b8baa7daf71bc9ebe862c9ad9a99",
+        "sha256_in_prefix": "657ce900ad84beaec81901c22039f5bfca54b8baa7daf71bc9ebe862c9ad9a99",
+        "size_in_bytes": 284
+      },
+      {
+        "_path": "lib/python3.6/site-packages/entrypoints.py",
+        "path_type": "hardlink",
+        "sha256": "68a5307fc9444bce2f15b1bf04a97bd233c20ffdd7d8277205e5e546503be1f0",
+        "sha256_in_prefix": "68a5307fc9444bce2f15b1bf04a97bd233c20ffdd7d8277205e5e546503be1f0",
+        "size_in_bytes": 8262
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 11855,
+  "subdir": "osx-64",
+  "timestamp": 1547905583090,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/entrypoints-0.3-py36_0.tar.bz2",
+  "version": "0.3"
+}

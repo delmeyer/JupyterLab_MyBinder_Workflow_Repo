@@ -1,0 +1,148 @@
+{
+  "build": "py36h1de35cc_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "mkl >=2019.3,<2020.0a0",
+    "numpy >=1.11.3,<2.0a0",
+    "python >=3.6,<3.7.0a0",
+    "six"
+  ],
+  "extracted_package_dir": "/Applications/anaconda3/pkgs/mkl-service-2.0.2-py36h1de35cc_0",
+  "features": "",
+  "files": [
+    "lib/python3.6/site-packages/mkl/__init__.py",
+    "lib/python3.6/site-packages/mkl/__pycache__/__init__.cpython-36.pyc",
+    "lib/python3.6/site-packages/mkl/__pycache__/setup.cpython-36.pyc",
+    "lib/python3.6/site-packages/mkl/_mklinit.cpython-36m-darwin.so",
+    "lib/python3.6/site-packages/mkl/_py_mkl_service.cpython-36m-darwin.so",
+    "lib/python3.6/site-packages/mkl/setup.py",
+    "lib/python3.6/site-packages/mkl/tests/__pycache__/test_mkl_service.cpython-36.pyc",
+    "lib/python3.6/site-packages/mkl/tests/test_mkl_service.py",
+    "lib/python3.6/site-packages/mkl_service-2.0.2-py3.6.egg-info/PKG-INFO",
+    "lib/python3.6/site-packages/mkl_service-2.0.2-py3.6.egg-info/SOURCES.txt",
+    "lib/python3.6/site-packages/mkl_service-2.0.2-py3.6.egg-info/dependency_links.txt",
+    "lib/python3.6/site-packages/mkl_service-2.0.2-py3.6.egg-info/requires.txt",
+    "lib/python3.6/site-packages/mkl_service-2.0.2-py3.6.egg-info/top_level.txt"
+  ],
+  "fn": "mkl-service-2.0.2-py36h1de35cc_0.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Applications/anaconda3/pkgs/mkl-service-2.0.2-py36h1de35cc_0",
+    "type": 1
+  },
+  "md5": "82d9d10efb44a3f46f02cc3b678d15fd",
+  "name": "mkl-service",
+  "package_tarball_full_path": "/Applications/anaconda3/pkgs/mkl-service-2.0.2-py36h1de35cc_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.6/site-packages/mkl/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "036dd5731256a735bdbfbb38deb2a142ce725c4fe45e790b3162fb51a4a41160",
+        "sha256_in_prefix": "036dd5731256a735bdbfbb38deb2a142ce725c4fe45e790b3162fb51a4a41160",
+        "size_in_bytes": 2325
+      },
+      {
+        "_path": "lib/python3.6/site-packages/mkl/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "66f989cef63c45ea78d656bcb14cb490f1ad2006946c6a0911ff91f37b040baa",
+        "sha256_in_prefix": "66f989cef63c45ea78d656bcb14cb490f1ad2006946c6a0911ff91f37b040baa",
+        "size_in_bytes": 1001
+      },
+      {
+        "_path": "lib/python3.6/site-packages/mkl/__pycache__/setup.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "e87ffc61c078e89cb012db26badd6d8a541e82d505a367e14f72b9d133fa087c",
+        "sha256_in_prefix": "e87ffc61c078e89cb012db26badd6d8a541e82d505a367e14f72b9d133fa087c",
+        "size_in_bytes": 1679
+      },
+      {
+        "_path": "lib/python3.6/site-packages/mkl/_mklinit.cpython-36m-darwin.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/e0c7855f-9409-4b4c-4afc-a7302490930f/volume/mkl-service_1559316236658/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla",
+        "sha256": "230194ca7c9549934859155e66f9a5ef36ab5b77d8c5484303b816728c156dc8",
+        "sha256_in_prefix": "2e4846c0550c33efe9a4cd09f3bd41b4ac581cf9a7f4117f2017a7d86099a40c",
+        "size_in_bytes": 12640
+      },
+      {
+        "_path": "lib/python3.6/site-packages/mkl/_py_mkl_service.cpython-36m-darwin.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/e0c7855f-9409-4b4c-4afc-a7302490930f/volume/mkl-service_1559316236658/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla",
+        "sha256": "57dd44ed0f91e68d576a0cee86b98d03e79e5dc4bfc546bba6d2c7578c05537e",
+        "sha256_in_prefix": "73d36bc493dc7297ccf7260cdc10db87df6c421c9be2e4f52adf15a4fab0d971",
+        "size_in_bytes": 108160
+      },
+      {
+        "_path": "lib/python3.6/site-packages/mkl/setup.py",
+        "path_type": "hardlink",
+        "sha256": "acfa4906b78b6b359eeb495d6df45295f598fb6f2be4f6d8db8eff72880c7688",
+        "sha256_in_prefix": "acfa4906b78b6b359eeb495d6df45295f598fb6f2be4f6d8db8eff72880c7688",
+        "size_in_bytes": 3540
+      },
+      {
+        "_path": "lib/python3.6/site-packages/mkl/tests/__pycache__/test_mkl_service.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "1d3e82cef67474a669ba0a0fd81fbba92377fe1d4c9d3a808efd7eb2de4d35fb",
+        "sha256_in_prefix": "1d3e82cef67474a669ba0a0fd81fbba92377fe1d4c9d3a808efd7eb2de4d35fb",
+        "size_in_bytes": 17329
+      },
+      {
+        "_path": "lib/python3.6/site-packages/mkl/tests/test_mkl_service.py",
+        "path_type": "hardlink",
+        "sha256": "5f3d02d011bf97f6c938a63722dc1fa7ccd96a34fb30d501c52b2fb4a98819e2",
+        "sha256_in_prefix": "5f3d02d011bf97f6c938a63722dc1fa7ccd96a34fb30d501c52b2fb4a98819e2",
+        "size_in_bytes": 11083
+      },
+      {
+        "_path": "lib/python3.6/site-packages/mkl_service-2.0.2-py3.6.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "f17f9a5a1e1e59438b48ad01f0e3c412133fbbc78c786f433cbac7bb9518c2d0",
+        "sha256_in_prefix": "f17f9a5a1e1e59438b48ad01f0e3c412133fbbc78c786f433cbac7bb9518c2d0",
+        "size_in_bytes": 1731
+      },
+      {
+        "_path": "lib/python3.6/site-packages/mkl_service-2.0.2-py3.6.egg-info/SOURCES.txt",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "8f7f1eaed66b04699352a2b47e3908bcb4d4cda87baa97f89d3a7d73a0ae51d4",
+        "sha256_in_prefix": "77cc10e8482bc0edfc702bd526c0beaf8fffe8d85360b27c02188212bd2365d5",
+        "size_in_bytes": 334
+      },
+      {
+        "_path": "lib/python3.6/site-packages/mkl_service-2.0.2-py3.6.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "lib/python3.6/site-packages/mkl_service-2.0.2-py3.6.egg-info/requires.txt",
+        "path_type": "hardlink",
+        "sha256": "fe2547fe2604b445e70fc9d819062960552f9145bdb043b51986e478a4806a2b",
+        "sha256_in_prefix": "fe2547fe2604b445e70fc9d819062960552f9145bdb043b51986e478a4806a2b",
+        "size_in_bytes": 4
+      },
+      {
+        "_path": "lib/python3.6/site-packages/mkl_service-2.0.2-py3.6.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "b1e92a43fd18113ecb2c73ba36c5d080a0cf18646198ab80356f68bc5b8cd931",
+        "sha256_in_prefix": "b1e92a43fd18113ecb2c73ba36c5d080a0cf18646198ab80356f68bc5b8cd931",
+        "size_in_bytes": 4
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 52788,
+  "subdir": "osx-64",
+  "timestamp": 1559316719562,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/mkl-service-2.0.2-py36h1de35cc_0.tar.bz2",
+  "version": "2.0.2"
+}

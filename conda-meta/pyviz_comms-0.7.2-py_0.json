@@ -1,0 +1,106 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/pyviz/noarch",
+  "constrains": [],
+  "depends": [
+    "param",
+    "python"
+  ],
+  "extracted_package_dir": "/Applications/anaconda3/pkgs/pyviz_comms-0.7.2-py_0",
+  "features": "",
+  "files": [
+    "lib/python3.6/site-packages/pyviz_comms-0.7.2-py3.6.egg-info/PKG-INFO",
+    "lib/python3.6/site-packages/pyviz_comms-0.7.2-py3.6.egg-info/SOURCES.txt",
+    "lib/python3.6/site-packages/pyviz_comms-0.7.2-py3.6.egg-info/dependency_links.txt",
+    "lib/python3.6/site-packages/pyviz_comms-0.7.2-py3.6.egg-info/requires.txt",
+    "lib/python3.6/site-packages/pyviz_comms-0.7.2-py3.6.egg-info/top_level.txt",
+    "lib/python3.6/site-packages/pyviz_comms/.version",
+    "lib/python3.6/site-packages/pyviz_comms/__init__.py",
+    "lib/python3.6/site-packages/pyviz_comms/notebook.js",
+    "lib/python3.6/site-packages/pyviz_comms/__pycache__/__init__.cpython-36.pyc"
+  ],
+  "fn": "pyviz_comms-0.7.2-py_0.tar.bz2",
+  "license": "BSD 3-Clause",
+  "link": {
+    "source": "/Applications/anaconda3/pkgs/pyviz_comms-0.7.2-py_0",
+    "type": 1
+  },
+  "md5": "386e1ec1813735aee3dfe2a40811c7f0",
+  "name": "pyviz_comms",
+  "noarch": "python",
+  "package_tarball_full_path": "/Applications/anaconda3/pkgs/pyviz_comms-0.7.2-py_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/pyviz_comms-0.7.2-py3.6.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "8ecdfcff8821e3827d31e6362b8c1604c96ffdca22a6ccdaf562ca8c33ab80ed",
+        "sha256_in_prefix": "8ecdfcff8821e3827d31e6362b8c1604c96ffdca22a6ccdaf562ca8c33ab80ed",
+        "size_in_bytes": 3370
+      },
+      {
+        "_path": "site-packages/pyviz_comms-0.7.2-py3.6.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "89e7791a00d7a855d01afe95517c0673a47863180d50be008e0a9453e430fb9d",
+        "sha256_in_prefix": "89e7791a00d7a855d01afe95517c0673a47863180d50be008e0a9453e430fb9d",
+        "size_in_bytes": 285
+      },
+      {
+        "_path": "site-packages/pyviz_comms-0.7.2-py3.6.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "site-packages/pyviz_comms-0.7.2-py3.6.egg-info/requires.txt",
+        "path_type": "hardlink",
+        "sha256": "47a048491ede42c0f7905a49ae6c70420506ae3ff14f45083f9bc6ac971c69ea",
+        "sha256_in_prefix": "47a048491ede42c0f7905a49ae6c70420506ae3ff14f45083f9bc6ac971c69ea",
+        "size_in_bytes": 103
+      },
+      {
+        "_path": "site-packages/pyviz_comms-0.7.2-py3.6.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "74d77425eebe95ee22363ed9a810285873315748e225f2f58c8db6b3d59ab7d1",
+        "sha256_in_prefix": "74d77425eebe95ee22363ed9a810285873315748e225f2f58c8db6b3d59ab7d1",
+        "size_in_bytes": 12
+      },
+      {
+        "_path": "site-packages/pyviz_comms/.version",
+        "path_type": "hardlink",
+        "sha256": "647d651089abe601d57f54bab3da90ea8a2f1a0d0e952c03053e2b8b83c914bc",
+        "sha256_in_prefix": "647d651089abe601d57f54bab3da90ea8a2f1a0d0e952c03053e2b8b83c914bc",
+        "size_in_bytes": 64
+      },
+      {
+        "_path": "site-packages/pyviz_comms/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "aeb6b5917bcf2225ae0046468005a4f688f2f6a55611a64455f6b98253da1dd2",
+        "sha256_in_prefix": "aeb6b5917bcf2225ae0046468005a4f688f2f6a55611a64455f6b98253da1dd2",
+        "size_in_bytes": 16515
+      },
+      {
+        "_path": "site-packages/pyviz_comms/notebook.js",
+        "path_type": "hardlink",
+        "sha256": "f47e168bb8c75826e13f8dd13f859f90fa1ceef3e25e0aff04656811cfcdc39e",
+        "sha256_in_prefix": "f47e168bb8c75826e13f8dd13f859f90fa1ceef3e25e0aff04656811cfcdc39e",
+        "size_in_bytes": 4976
+      },
+      {
+        "_path": "lib/python3.6/site-packages/pyviz_comms/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 10661,
+  "subdir": "noarch",
+  "timestamp": 1553375066317,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/pyviz/noarch/pyviz_comms-0.7.2-py_0.tar.bz2",
+  "version": "0.7.2"
+}

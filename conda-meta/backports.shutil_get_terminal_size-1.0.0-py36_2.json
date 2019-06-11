@@ -1,0 +1,107 @@
+{
+  "build": "py36_2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "backports",
+    "python >=3.6,<3.7.0a0"
+  ],
+  "extracted_package_dir": "/Applications/anaconda3/pkgs/backports.shutil_get_terminal_size-1.0.0-py36_2",
+  "features": "",
+  "files": [
+    "lib/python3.6/site-packages/backports.shutil_get_terminal_size-1.0.0.dist-info/INSTALLER",
+    "lib/python3.6/site-packages/backports.shutil_get_terminal_size-1.0.0.dist-info/METADATA",
+    "lib/python3.6/site-packages/backports.shutil_get_terminal_size-1.0.0.dist-info/RECORD",
+    "lib/python3.6/site-packages/backports.shutil_get_terminal_size-1.0.0.dist-info/WHEEL",
+    "lib/python3.6/site-packages/backports.shutil_get_terminal_size-1.0.0.dist-info/top_level.txt",
+    "lib/python3.6/site-packages/backports/shutil_get_terminal_size/__init__.py",
+    "lib/python3.6/site-packages/backports/shutil_get_terminal_size/__pycache__/__init__.cpython-36.pyc",
+    "lib/python3.6/site-packages/backports/shutil_get_terminal_size/__pycache__/get_terminal_size.cpython-36.pyc",
+    "lib/python3.6/site-packages/backports/shutil_get_terminal_size/get_terminal_size.py"
+  ],
+  "fn": "backports.shutil_get_terminal_size-1.0.0-py36_2.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "/Applications/anaconda3/pkgs/backports.shutil_get_terminal_size-1.0.0-py36_2",
+    "type": 1
+  },
+  "md5": "3bfe8e59a82ce48cf846a969726d1202",
+  "name": "backports.shutil_get_terminal_size",
+  "package_tarball_full_path": "/Applications/anaconda3/pkgs/backports.shutil_get_terminal_size-1.0.0-py36_2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.6/site-packages/backports.shutil_get_terminal_size-1.0.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "sha256_in_prefix": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "size_in_bytes": 4
+      },
+      {
+        "_path": "lib/python3.6/site-packages/backports.shutil_get_terminal_size-1.0.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "e9ae63494e3ebf487ec77bd01a3734f0f911e80e5774e82f0b8fab7161948509",
+        "sha256_in_prefix": "e9ae63494e3ebf487ec77bd01a3734f0f911e80e5774e82f0b8fab7161948509",
+        "size_in_bytes": 1175
+      },
+      {
+        "_path": "lib/python3.6/site-packages/backports.shutil_get_terminal_size-1.0.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "18962016e40b2edef5789542e950be674ca678afcbb537e0d95058ec00c7388b",
+        "sha256_in_prefix": "18962016e40b2edef5789542e950be674ca678afcbb537e0d95058ec00c7388b",
+        "size_in_bytes": 1025
+      },
+      {
+        "_path": "lib/python3.6/site-packages/backports.shutil_get_terminal_size-1.0.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "81dbae3f206f149412434cddcb117b934cf29c35db21bbe0e59047a17ba6e6e9",
+        "sha256_in_prefix": "81dbae3f206f149412434cddcb117b934cf29c35db21bbe0e59047a17ba6e6e9",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "lib/python3.6/site-packages/backports.shutil_get_terminal_size-1.0.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "7068da2cc3a8051d452b4029a23b73595995893b49ec91882bf1f05e212cbed5",
+        "sha256_in_prefix": "7068da2cc3a8051d452b4029a23b73595995893b49ec91882bf1f05e212cbed5",
+        "size_in_bytes": 10
+      },
+      {
+        "_path": "lib/python3.6/site-packages/backports/shutil_get_terminal_size/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "b0f51db8598586bbbfab580b72fe6030ddc8ded51249253d625bee55d8508dda",
+        "sha256_in_prefix": "b0f51db8598586bbbfab580b72fe6030ddc8ded51249253d625bee55d8508dda",
+        "size_in_bytes": 338
+      },
+      {
+        "_path": "lib/python3.6/site-packages/backports/shutil_get_terminal_size/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "91c477fedbf283946ee8392416712fff9ddbc8b9de45f5230d3bd92c2021bb0d",
+        "sha256_in_prefix": "91c477fedbf283946ee8392416712fff9ddbc8b9de45f5230d3bd92c2021bb0d",
+        "size_in_bytes": 503
+      },
+      {
+        "_path": "lib/python3.6/site-packages/backports/shutil_get_terminal_size/__pycache__/get_terminal_size.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "b237d259557b7638093acc5cd3fe0ad28930753f8de9d642a5bd1684a3755f7a",
+        "sha256_in_prefix": "b237d259557b7638093acc5cd3fe0ad28930753f8de9d642a5bd1684a3755f7a",
+        "size_in_bytes": 2809
+      },
+      {
+        "_path": "lib/python3.6/site-packages/backports/shutil_get_terminal_size/get_terminal_size.py",
+        "path_type": "hardlink",
+        "sha256": "9da9f2f3e7200709aa2deee08882747bb7363d5edd4e9f3d43b7c6b3152b3502",
+        "sha256_in_prefix": "9da9f2f3e7200709aa2deee08882747bb7363d5edd4e9f3d43b7c6b3152b3502",
+        "size_in_bytes": 2913
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 8353,
+  "subdir": "osx-64",
+  "timestamp": 1530731032738,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/backports.shutil_get_terminal_size-1.0.0-py36_2.tar.bz2",
+  "version": "1.0.0"
+}

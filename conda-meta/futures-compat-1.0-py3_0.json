@@ -1,0 +1,32 @@
+{
+  "build": "py3_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/free/noarch",
+  "constrains": [],
+  "date": "2016-03-26",
+  "depends": [
+    "python 3.*"
+  ],
+  "extracted_package_dir": "/Applications/anaconda3/pkgs/futures-compat-1.0-py3_0",
+  "features": "",
+  "files": [],
+  "fn": "futures-compat-1.0-py3_0.tar.bz2",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Applications/anaconda3/pkgs/futures-compat-1.0-py3_0",
+    "type": 1
+  },
+  "md5": "e3d52c397a27973bc694e31f41768154",
+  "name": "futures-compat",
+  "package_tarball_full_path": "/Applications/anaconda3/pkgs/futures-compat-1.0-py3_0.tar.bz2",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 313,
+  "subdir": "noarch",
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/free/noarch/futures-compat-1.0-py3_0.tar.bz2",
+  "version": "1.0"
+}

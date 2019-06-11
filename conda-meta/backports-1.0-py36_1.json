@@ -1,0 +1,50 @@
+{
+  "build": "py36_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.6,<3.7.0a0"
+  ],
+  "extracted_package_dir": "/Applications/anaconda3/pkgs/backports-1.0-py36_1",
+  "features": "",
+  "files": [
+    "lib/python3.6/site-packages/backports/__init__.py",
+    "lib/python3.6/site-packages/backports/__pycache__/__init__.cpython-36.pyc"
+  ],
+  "fn": "backports-1.0-py36_1.tar.bz2",
+  "license": "BSD",
+  "link": {
+    "source": "/Applications/anaconda3/pkgs/backports-1.0-py36_1",
+    "type": 1
+  },
+  "md5": "0969ccb957d3a87cccd7781929d6d228",
+  "name": "backports",
+  "package_tarball_full_path": "/Applications/anaconda3/pkgs/backports-1.0-py36_1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.6/site-packages/backports/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "248821cd8cda1c51e74c9791d6b5109957ba408a705ec4a27aea27933f910eb3",
+        "sha256_in_prefix": "248821cd8cda1c51e74c9791d6b5109957ba408a705ec4a27aea27933f910eb3",
+        "size_in_bytes": 259
+      },
+      {
+        "_path": "lib/python3.6/site-packages/backports/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "5d93067e0e30a52c488761251565484ff88f71ff9e4ede8459971a7892d7456f",
+        "sha256_in_prefix": "5d93067e0e30a52c488761251565484ff88f71ff9e4ede8459971a7892d7456f",
+        "size_in_bytes": 132
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 3797,
+  "subdir": "osx-64",
+  "timestamp": 1530729376698,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/backports-1.0-py36_1.tar.bz2",
+  "version": "1.0"
+}

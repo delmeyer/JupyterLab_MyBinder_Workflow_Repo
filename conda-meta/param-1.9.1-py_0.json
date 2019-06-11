@@ -1,0 +1,149 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/pyviz/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=2.7"
+  ],
+  "extracted_package_dir": "/Applications/anaconda3/pkgs/param-1.9.1-py_0",
+  "features": "",
+  "files": [
+    "lib/python3.6/site-packages/numbergen/__init__.py",
+    "lib/python3.6/site-packages/param-1.9.1-py3.7.egg-info/PKG-INFO",
+    "lib/python3.6/site-packages/param-1.9.1-py3.7.egg-info/SOURCES.txt",
+    "lib/python3.6/site-packages/param-1.9.1-py3.7.egg-info/dependency_links.txt",
+    "lib/python3.6/site-packages/param-1.9.1-py3.7.egg-info/requires.txt",
+    "lib/python3.6/site-packages/param-1.9.1-py3.7.egg-info/top_level.txt",
+    "lib/python3.6/site-packages/param/.version",
+    "lib/python3.6/site-packages/param/__init__.py",
+    "lib/python3.6/site-packages/param/ipython.py",
+    "lib/python3.6/site-packages/param/parameterized.py",
+    "lib/python3.6/site-packages/param/version.py",
+    "lib/python3.6/site-packages/numbergen/__pycache__/__init__.cpython-36.pyc",
+    "lib/python3.6/site-packages/param/__pycache__/__init__.cpython-36.pyc",
+    "lib/python3.6/site-packages/param/__pycache__/ipython.cpython-36.pyc",
+    "lib/python3.6/site-packages/param/__pycache__/parameterized.cpython-36.pyc",
+    "lib/python3.6/site-packages/param/__pycache__/version.cpython-36.pyc"
+  ],
+  "fn": "param-1.9.1-py_0.tar.bz2",
+  "license": "BSD",
+  "link": {
+    "source": "/Applications/anaconda3/pkgs/param-1.9.1-py_0",
+    "type": 1
+  },
+  "md5": "fb1d1cff916865dca9378a8a7b00c1de",
+  "name": "param",
+  "noarch": "python",
+  "package_tarball_full_path": "/Applications/anaconda3/pkgs/param-1.9.1-py_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/numbergen/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "0f4aa47885e46a4611a788aa78b98a5bf46e3bcbd4a69c165676e8b1d8dca246",
+        "sha256_in_prefix": "0f4aa47885e46a4611a788aa78b98a5bf46e3bcbd4a69c165676e8b1d8dca246",
+        "size_in_bytes": 26699
+      },
+      {
+        "_path": "site-packages/param-1.9.1-py3.7.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "d2e4c71fa12a3226af765bfad86148e0543fd48593073d096d49d1bacd1d8345",
+        "sha256_in_prefix": "d2e4c71fa12a3226af765bfad86148e0543fd48593073d096d49d1bacd1d8345",
+        "size_in_bytes": 2912
+      },
+      {
+        "_path": "site-packages/param-1.9.1-py3.7.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "ecda174d31ee753de6df06836a98cf325383abbd08260c0492cad50576defc38",
+        "sha256_in_prefix": "ecda174d31ee753de6df06836a98cf325383abbd08260c0492cad50576defc38",
+        "size_in_bytes": 309
+      },
+      {
+        "_path": "site-packages/param-1.9.1-py3.7.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "site-packages/param-1.9.1-py3.7.egg-info/requires.txt",
+        "path_type": "hardlink",
+        "sha256": "2c210e37ad7e5820660c8853b0dadefa5cab9494b1caff99bf1a0abb9dc4cde6",
+        "sha256_in_prefix": "2c210e37ad7e5820660c8853b0dadefa5cab9494b1caff99bf1a0abb9dc4cde6",
+        "size_in_bytes": 40
+      },
+      {
+        "_path": "site-packages/param-1.9.1-py3.7.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "3b010bea829229e31b66ff6b97eaca24243aef377c2c544e9b5a97a9e1e97a39",
+        "sha256_in_prefix": "3b010bea829229e31b66ff6b97eaca24243aef377c2c544e9b5a97a9e1e97a39",
+        "size_in_bytes": 16
+      },
+      {
+        "_path": "site-packages/param/.version",
+        "path_type": "hardlink",
+        "sha256": "f9ae6b3d9ff631a830b7718cf631514c6d1a7d354bf148c91cb7ba64808c8da1",
+        "sha256_in_prefix": "f9ae6b3d9ff631a830b7718cf631514c6d1a7d354bf148c91cb7ba64808c8da1",
+        "size_in_bytes": 64
+      },
+      {
+        "_path": "site-packages/param/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "957be01cedcaaca97a8e2563d66005adff1a37e3583d78796893c9dc4847b394",
+        "sha256_in_prefix": "957be01cedcaaca97a8e2563d66005adff1a37e3583d78796893c9dc4847b394",
+        "size_in_bytes": 68384
+      },
+      {
+        "_path": "site-packages/param/ipython.py",
+        "path_type": "hardlink",
+        "sha256": "bbe1681be19d6de9b01167ec40bd8def636bdcfc10f97da894c8eb1cb1b5e54b",
+        "sha256_in_prefix": "bbe1681be19d6de9b01167ec40bd8def636bdcfc10f97da894c8eb1cb1b5e54b",
+        "size_in_bytes": 12582
+      },
+      {
+        "_path": "site-packages/param/parameterized.py",
+        "path_type": "hardlink",
+        "sha256": "a516ca0d4c093c388d32f31c986c2d37243604f5bdbb2fb600143731f401ac5d",
+        "sha256_in_prefix": "a516ca0d4c093c388d32f31c986c2d37243604f5bdbb2fb600143731f401ac5d",
+        "size_in_bytes": 110082
+      },
+      {
+        "_path": "site-packages/param/version.py",
+        "path_type": "hardlink",
+        "sha256": "9502f26eeab30ec325cc87e61760bbda62cb5bd34564acb7a4e0df389c7fcfa8",
+        "sha256_in_prefix": "9502f26eeab30ec325cc87e61760bbda62cb5bd34564acb7a4e0df389c7fcfa8",
+        "size_in_bytes": 30509
+      },
+      {
+        "_path": "lib/python3.6/site-packages/numbergen/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.6/site-packages/param/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.6/site-packages/param/__pycache__/ipython.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.6/site-packages/param/__pycache__/parameterized.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.6/site-packages/param/__pycache__/version.cpython-36.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 77878,
+  "subdir": "noarch",
+  "timestamp": 1559344215075,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/pyviz/noarch/param-1.9.1-py_0.tar.bz2",
+  "version": "1.9.1"
+}

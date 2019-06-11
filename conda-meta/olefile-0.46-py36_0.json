@@ -1,0 +1,107 @@
+{
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.6,<3.7.0a0"
+  ],
+  "extracted_package_dir": "/Applications/anaconda3/pkgs/olefile-0.46-py36_0",
+  "features": "",
+  "files": [
+    "lib/python3.6/site-packages/olefile-0.46-py3.6.egg-info/PKG-INFO",
+    "lib/python3.6/site-packages/olefile-0.46-py3.6.egg-info/SOURCES.txt",
+    "lib/python3.6/site-packages/olefile-0.46-py3.6.egg-info/dependency_links.txt",
+    "lib/python3.6/site-packages/olefile-0.46-py3.6.egg-info/installed-files.txt",
+    "lib/python3.6/site-packages/olefile-0.46-py3.6.egg-info/top_level.txt",
+    "lib/python3.6/site-packages/olefile/__init__.py",
+    "lib/python3.6/site-packages/olefile/__pycache__/__init__.cpython-36.pyc",
+    "lib/python3.6/site-packages/olefile/__pycache__/olefile.cpython-36.pyc",
+    "lib/python3.6/site-packages/olefile/olefile.py"
+  ],
+  "fn": "olefile-0.46-py36_0.tar.bz2",
+  "license": "BSD 2-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Applications/anaconda3/pkgs/olefile-0.46-py36_0",
+    "type": 1
+  },
+  "md5": "cff4517ec1ab38e0e13d8eddf1445d2e",
+  "name": "olefile",
+  "package_tarball_full_path": "/Applications/anaconda3/pkgs/olefile-0.46-py36_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.6/site-packages/olefile-0.46-py3.6.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "607b9a2d7dd50e644a27f58c2bdd4a3a412f72a3cc4d59e8485fafa9ef0a44c2",
+        "sha256_in_prefix": "607b9a2d7dd50e644a27f58c2bdd4a3a412f72a3cc4d59e8485fafa9ef0a44c2",
+        "size_in_bytes": 11094
+      },
+      {
+        "_path": "lib/python3.6/site-packages/olefile-0.46-py3.6.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "af9795f3018cfa75311649b424f5201c5b295825bf753de162cf78e499312472",
+        "sha256_in_prefix": "af9795f3018cfa75311649b424f5201c5b295825bf753de162cf78e499312472",
+        "size_in_bytes": 584
+      },
+      {
+        "_path": "lib/python3.6/site-packages/olefile-0.46-py3.6.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "lib/python3.6/site-packages/olefile-0.46-py3.6.egg-info/installed-files.txt",
+        "path_type": "hardlink",
+        "sha256": "ee3a4edea6f9e4cd9ce77b501059b4df77e416128b0ae6b0c9d495f63ec2d9a5",
+        "sha256_in_prefix": "ee3a4edea6f9e4cd9ce77b501059b4df77e416128b0ae6b0c9d495f63ec2d9a5",
+        "size_in_bytes": 194
+      },
+      {
+        "_path": "lib/python3.6/site-packages/olefile-0.46-py3.6.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "bad496e3f9cfa7eaf2b510fb56f312fbc812a7d05498a6110cd7757b1f50da4b",
+        "sha256_in_prefix": "bad496e3f9cfa7eaf2b510fb56f312fbc812a7d05498a6110cd7757b1f50da4b",
+        "size_in_bytes": 8
+      },
+      {
+        "_path": "lib/python3.6/site-packages/olefile/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "5e81aec95ac09c993ad53fcfd93b3a6f67f1d1ff0bfee49214cabcfe51f0c17a",
+        "sha256_in_prefix": "5e81aec95ac09c993ad53fcfd93b3a6f67f1d1ff0bfee49214cabcfe51f0c17a",
+        "size_in_bytes": 995
+      },
+      {
+        "_path": "lib/python3.6/site-packages/olefile/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "39200b867854fd87aa3552c5b77eb4b9ef2a1d606a67d0c0f082daefc8ac94e3",
+        "sha256_in_prefix": "39200b867854fd87aa3552c5b77eb4b9ef2a1d606a67d0c0f082daefc8ac94e3",
+        "size_in_bytes": 1100
+      },
+      {
+        "_path": "lib/python3.6/site-packages/olefile/__pycache__/olefile.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "a9bc0ca6436782e0f714da6bafd93d4c5b897fe5835c30d1ce20bd34092edb0c",
+        "sha256_in_prefix": "a9bc0ca6436782e0f714da6bafd93d4c5b897fe5835c30d1ce20bd34092edb0c",
+        "size_in_bytes": 55873
+      },
+      {
+        "_path": "lib/python3.6/site-packages/olefile/olefile.py",
+        "path_type": "hardlink",
+        "sha256": "e8e1a9ee52dca783b7e8e6fff9d344e18926fafefd4ce48e41f03b2d4725c47e",
+        "sha256_in_prefix": "e8e1a9ee52dca783b7e8e6fff9d344e18926fafefd4ce48e41f03b2d4725c47e",
+        "size_in_bytes": 105311
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 49362,
+  "subdir": "osx-64",
+  "timestamp": 1536697273222,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/olefile-0.46-py36_0.tar.bz2",
+  "version": "0.46"
+}

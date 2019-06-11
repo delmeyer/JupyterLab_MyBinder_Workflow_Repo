@@ -1,0 +1,38 @@
+{
+  "build": "py36hacdab7b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "blas 1.0 mkl",
+    "libgfortran >=3.0.1,<4.0.0.a0",
+    "mkl >=2019.3,<2020.0a0",
+    "mkl_fft >=1.0.6,<2.0a0",
+    "mkl_random >=1.0.2,<2.0a0",
+    "numpy-base 1.16.4 py36h6575580_0",
+    "python >=3.6,<3.7.0a0"
+  ],
+  "extracted_package_dir": "/Applications/anaconda3/pkgs/numpy-1.16.4-py36hacdab7b_0",
+  "features": "",
+  "files": [],
+  "fn": "numpy-1.16.4-py36hacdab7b_0.tar.bz2",
+  "license": "BSD 3-Clause",
+  "link": {
+    "source": "/Applications/anaconda3/pkgs/numpy-1.16.4-py36hacdab7b_0",
+    "type": 1
+  },
+  "md5": "fe657ec32d38857b895dff854f807b41",
+  "name": "numpy",
+  "package_tarball_full_path": "/Applications/anaconda3/pkgs/numpy-1.16.4-py36hacdab7b_0.tar.bz2",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 49776,
+  "subdir": "osx-64",
+  "timestamp": 1559141887335,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/numpy-1.16.4-py36hacdab7b_0.tar.bz2",
+  "version": "1.16.4"
+}
