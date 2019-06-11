@@ -1,0 +1,8 @@
+#!/bin/bash
+if [[ "$OSTYPE" == "darwin"* ]]; then
+    # Mac OSX
+    exec /Users/delroy_m/Desktop/Conda_Envs/JupyterLab_MyBinder_Workflow/lib/orca.app/Contents/MacOS/orca "$@"
+else
+    # Assume linux
+    exec /Users/delroy_m/Desktop/Conda_Envs/JupyterLab_MyBinder_Workflow/lib/orca_app/orca "$@"
+fi
