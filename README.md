@@ -4,3 +4,7 @@ This repo is a test repo to setup a "WORKING" MyBinder project. Previously I spe
 I created this repo almost step-by-step from Florian Wilhelm's fantastic [Working efficiently with JupyterLab Notebooks](https://florianwilhelm.info/2018/11/working_efficiently_with_jupyter_lab/) (Vielen Dank Florian!!) tutorial for creating conda virtual environments to be used to create notebooks and (Data Science) workflows in JupyterLab. This repo is structured so that I can ACTUALLY LOAD A WORKING MYBINDER!!
 
 This repo relied heavily on Florian's [boston_housing GitHub repo](https://github.com/FlorianWilhelm/boston_housing/blob/master/requirements.txt) and the [PyScaffold Python project template generator](https://pyscaffold.org/en/latest/).
+
+## Testing the Git push/pull functionality in JupyterLab
+This text is being written as a simple test to experiment with Git push/pull functionality from within the JupyterLab computing environment.
+___________________________________________________________________________________________________________________________________________________
